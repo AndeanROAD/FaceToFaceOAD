@@ -11,10 +11,10 @@ Three main blind spots / myths
   in Uganda to do
   it - sponsored by the World Bank.](http://www.theguardian.com/environment/2011/sep/22/uganda-farmer-land-gave-me-everything). 
   World Bank never investigated
-   * The bottom line is that development should also include the
+  * The bottom line is that development should also include the
    people's right to make the political and economic authorities
    accountable.
-   * Counterexample. [Bill Gates praising Ethiopia's Meles
+  * Counterexample. [Bill Gates praising Ethiopia's Meles
    Zenawi](http://hornaffairs.com/en/2012/05/10/bill-gates-writes-praising-ethiopias-leadership-and-progress/)
    who has been critized by [Human Rights
    Watch](https://en.wikipedia.org/wiki/Meles_Zenawi#Criticism_and_scandals). 

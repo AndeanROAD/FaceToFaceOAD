@@ -35,3 +35,25 @@ Three main blind spots / myths
   * People need to care first, then they engage into action. They
   develop the needed tools. 
   * A call to action should be in fact a call for ideals.
+
+
+
+[Debates in Development - Conference Intro by Bill
+Easterly](https://www.youtube.com/watch?v=U0Bq7uipqgM)
+
+# Smart scientific solutions vs. dumb solution finding systems
+
+* Three aspects of knowledge. Cost. Context. Consternation.
+
+* Cost. Not about cost/benefit analysis of research. We just do the
+  research. But expert scientific knowledge is expensive. It takes
+  time to create an expert.  Basic principle economize in the
+  expensive - use the extensively the cheap. In development studies we
+  do the opposite. Can you escale something that uses an expensive resource?
+  Can we have an entire solution system based on randomize control
+  trials which are intensive in the use of money and experts?
+
+  Example: My doctor uses expensive scientific knowldge. But I choose
+  a doctor because he is my friend's doctor.
+  Example: Entepreneurship. They are smart enough to use dumb finding
+  solution system. See what the customer like.

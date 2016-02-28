@@ -57,3 +57,19 @@ Easterly](https://www.youtube.com/watch?v=U0Bq7uipqgM)
   a doctor because he is my friend's doctor.
   Example: Entepreneurship. They are smart enough to use dumb finding
   solution system. See what the customer like.
+
+  Implementation: *Give voice to the beneficiaries*. Sometimes not
+  used.
+
+* Context. Can the knowledge produced be generalized to other
+  contexts? In practice most of the solutions depend on the context. 
+  To make things work. Context keep changing. Dumb solutions can be
+  adaptable if you give *voice and choice* to the people. 
+  
+* Consternation. Surprise. Sucess and failure are often a
+  surprise. This is the importance of running many experiments. This
+  is how it works in art. 
+
+
+[Debates in Development - Session 1 Intro - Development Goals, Evaluation, Learning](https://www.youtube.com/watch?v=fkwDz_7Wbh8)
+  

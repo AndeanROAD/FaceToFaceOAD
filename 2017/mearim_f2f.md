@@ -37,6 +37,16 @@ Send Ram names of TF members.
 ## Communications
 
 - OAD has communications framework for project communications (social media sharing through OAO and OAD)
+- ROADs should have minimum common framework as well (social media presence)
+- Common information hub for key information
+- Astronomy Translation Network (NAOJ, OAO, OAD)
+- Suggestion: use Slack for quick communications in order to not flood emails
+
+## Countries outside ROADs
+
+- North America - Europe - Oceania
+- ROADs are the global coordinators for the world, not OAD (global management team)
+- Business plan: Consolidate instead of forming new offices - open discussion
 
 
 

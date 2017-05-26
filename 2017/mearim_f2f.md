@@ -1,6 +1,5 @@
 # Hotel Jupiter, Addis Ababa
 
-Send Ram names of TF members.
 
 ## Updates from OAD
 
@@ -23,7 +22,8 @@ Send Ram names of TF members.
 - Successful stories for IAU 100th anniversary - OAD spotlight
 - NOC (outreach contacts) seeks to reach countries outside of ROADs
 - CAP - Grants are limited - find funds for regional nodes to attend
-- Action: find NOC in regions and communicate with OAO to sync
+- **Action**: find NOC in regions and communicate with OAO to sync
+- **Action**: Send Ram names of TF members.
 
 ## ROADs presence at IAU meetings
 
@@ -71,8 +71,7 @@ Send Ram names of TF members.
 - UNESCO
     - Get astronomical monuments as World Heritage sites (clash with countries' proposals)
     - Propose rules for similar figure (UNESCO/IAU proclamation of a site)
-
-
+    
 ## IAU strategic plan
 
 - Lack of effective communication of the importance of Astronomy beyond entertainment value
@@ -111,3 +110,4 @@ Send Ram names of TF members.
 - Period for CBP structure review - once per F2F meeting
 - Standardize how information is presented - achievements, indicators at F2F meetings
 - **Action**: Review ROAD plan for next F2F meeting by August (two months)
+

@@ -1,5 +1,6 @@
-# Hotel Jupiter, Addis Ababa
-
+# Face to Face OAD Regions meeting at MEARIM IV
+26-05-2017
+Hotel Jupiter, Addis Ababa, Ethiopia
 
 ## Updates from OAD
 
@@ -148,3 +149,13 @@
 - OAD competence badges for teachers
 - Asteroid Day
     - Catch micrometeorites with dried rainwater and magnet (WHAT?)
+
+## The Ethiopian Way
+
+- Appeal to and involve stakeholders in:
+    - Create capacity for technology development, human development
+    - Outreach - communicate sci/tech policies to people
+    - Reverse East African diaspora
+    - Link with space sciences, renewable energies
+    - Cultural astronomy
+- Transform ROAD into inter-governmental, funded entity

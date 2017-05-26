@@ -52,7 +52,7 @@
 
 - Junior member (max. duration of 6 years)
 - All members can vote in scientific matters
-- Executive commitee can decide whether a member changes category (up- or downgrade)
+- Executive commitee can decide on whether a member changes category (up- or downgrade)
 - 100 IAU 
     - Sze Leung, Bob Williams, ...
     - Book, video, brochure, exhibition
@@ -105,9 +105,46 @@
 - **Action**: Send feedback about review document - terms of agreement? Less than four years?
 - Set up timeline with Kevin
 
-## Combine business plan
+## Combined business plan
 
 - Period for CBP structure review - once per F2F meeting
 - Standardize how information is presented - achievements, indicators at F2F meetings
 - **Action**: Review ROAD plan for next F2F meeting by August (two months)
 
+## Call for proposals
+
+- Goals: Enhance impact
+    - Built-in evaluation
+    - Sustainability
+    - Ease of reporting
+- S1: Open call (short proposals)
+- S2: 40+9 proposals
+- S3: Final selection
+- Endorsement letters can be written for S1 proposals, although only one proposal may be nominated.
+- S2 process helps close the gap between OAD TFs and ROADs
+
+### My thoughts on the CfP
+
+- More time for S1 - for socializing in ROADs
+- OAD call: only 1 suggestion per Regional Office? Better to have 1 per TF
+- S1 is supposed to encourage projects to seek aproval for region, but it might have opposite effect due to low acceptance fraction
+- With Vanessa's presentation about CfP we might be able to whip up an information session before the deadline
+
+## Projects
+
+- EU Space Awareness
+    - EU Horizon 2020 project 
+    - OAD as a dissemination agent
+    - Resource creation
+    - Directly impact schools
+    - Climate change toolkits
+    - Europe - Africa   
+    - MOOCs - available
+- IAU100
+    - National competitions to name exoplanets (NOCs and ROADs)
+- NARIT/UNESCO - Astronomy for STEM
+- UNESCO Heritage meeting in Middle East Region - Armenia
+- OAD endorsement for projects, facilitators - contact with ROADs
+- OAD competence badges for teachers
+- Asteroid Day
+    - Catch micrometeorites with dried rainwater and magnet (WHAT?)

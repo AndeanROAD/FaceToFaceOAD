@@ -48,5 +48,29 @@ Send Ram names of TF members.
 - ROADs are the global coordinators for the world, not OAD (global management team)
 - Business plan: Consolidate instead of forming new offices - open discussion
 
+## Updates from IAU
+
+- Junior member (max. duration of 6 years)
+- All members can vote in scientific matters
+- Executive commitee can decide whether a member changes category (up- or downgrade)
+- 100 IAU 
+    - Sze Leung, Bob Williams, ...
+    - Book, video, brochure, exhibition
+    - Opening in 2019 in Brussels
+- Strategic plan
+    - Avoid shift to ODA
+    - New instruments meeting @ Leiden - discussion of SP
+    - Spring 2018 draft of SP to be sent to National Members
+- Women in astronomy
+    - ICSU grant (300k euro/3 yr) collecting statistics
+- Connection to UNOOSA (UN Office of Outer Space Affairs)
+    - NEO monitoring
+    - Dark & quiet skies proposal (conference - technical measures to mitigate light pollution)
+    - Endorsement of UN in order to monitor implementation
+    - Get endorsement from UN for IAU naming issues
+- UNESCO
+    - Get astronomical monuments as World Heritage sites (clash with countries' proposals)
+    - Propose rules for similar figure (UNESCO/IAU proclamation of a site)
+
 
 

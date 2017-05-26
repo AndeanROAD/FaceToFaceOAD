@@ -73,4 +73,41 @@ Send Ram names of TF members.
     - Propose rules for similar figure (UNESCO/IAU proclamation of a site)
 
 
+## IAU strategic plan
 
+- Lack of effective communication of the importance of Astronomy beyond entertainment value
+- NASA vs. IAU in terms of reputation
+- IAU can help give OAD a good standing with development-related funding agencies
+- **Action**: Socialize the document with regions, consolidate input and get back to OAD before Mid-June (23rd)
+- Ewine suggested creating an OAD fundraising brochure by the end of June
+- **Action**: Wishlist for 1k to 1m ideas
+
+## Funding strategies
+
+- Involvement of many ROADs for open calls (Horizon 2020, Silk Road)
+- IAU is hiring someone for OAD fundraising
+- Create an OAD commission for funding from all coordinators - liason with IAU (purely stratgic)
+    - Prospery, Sona, Rosa, Vanessa, Kevin, someone from East Asia
+    - Until IAU hire, communication will remain open
+
+## IAU General Assembly
+
+- 5 1/2 h allocated time for OAD session
+- Give priority to ROADs panel, Synergies, Fundraising, 
+- Branding for OAD @ GA
+- Reaching out to Astronomy and Inclusion sessions and groups
+- Prepare content (well written bits) for IAU newspaper
+
+## Review of ROADs
+
+- Reviews will take place before end of terms. IAU will assume that agreements continue until review (even after term ends)
+- Reviews will set up new agreements
+- Review from other ROADs - peer review can be helpful, but is not independent
+- **Action**: Send feedback about review document - terms of agreement? Less than four years?
+- Set up timeline with Kevin
+
+## Combine business plan
+
+- Period for CBP structure review - once per F2F meeting
+- Standardize how information is presented - achievements, indicators at F2F meetings
+- **Action**: Review ROAD plan for next F2F meeting by August (two months)
